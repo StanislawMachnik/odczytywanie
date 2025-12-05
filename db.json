@@ -1,1 +1,25 @@
-
+{
+  "pytania":[
+     {
+       "tresc": "Stolicą Polski było?",
+       "odpa": "Gniezno",
+       "odpb": "Kalety",
+       "odpc": "Bytom",
+       "poprawna": 0
+     },
+     {
+       "tresc": "Ile nóg ma człowiek?",
+       "odpa": "Cztery",
+       "odpb": "Dwie",
+       "odpc": "Pięć",
+       "poprawna": 1
+     },
+     {
+       "tresc": "Co stało się w Tianman Square?",
+       "odpa": "Wybuch miny przeciwpiechotnej",
+       "odpb": "Zamieszki",
+       "odpc": "Nic",
+       "poprawna": 2
+     }
+  ]
+}
